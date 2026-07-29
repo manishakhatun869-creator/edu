@@ -1,0 +1,6 @@
+{
+  "name": "EduManage",
+  "description": "Educational Management Portal with Student & Admin panels, Attendance tracking, Fee Management & Receipts, and Push Notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
